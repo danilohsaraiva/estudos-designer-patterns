@@ -1,6 +1,6 @@
-import estudos.padroes.patterns.strategyshowcase.shipping.AliExpress;
-import estudos.padroes.patterns.strategysolution.AliExpressSolution;
-import estudos.padroes.patterns.strategysolution.FreteSolution;
+import estudos.patterns.strategyshowcase.shipping.AliExpress;
+import estudos.patterns.strategysolution.AliExpressSolution;
+import estudos.patterns.strategysolution.FreteSolution;
 
 public class App {
     public static void main(String[] args) throws Exception {

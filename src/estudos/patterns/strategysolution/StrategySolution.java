@@ -1,4 +1,4 @@
-package estudos.padroes.patterns.strategysolution;
+package estudos.patterns.strategysolution;
 
 public class StrategySolution {
     //Interface utilizada

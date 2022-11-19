@@ -1,4 +1,4 @@
-package estudos.padroes.patterns.strategyshowcase.shipping;
+package estudos.patterns.strategyshowcase.shipping;
 
 public class Frete {
     public double calcula (String servico, double peso){

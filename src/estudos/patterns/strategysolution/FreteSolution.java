@@ -1,6 +1,6 @@
-package estudos.padroes.patterns.strategysolution;
+package estudos.patterns.strategysolution;
 
-import estudos.padroes.patterns.strategysolution.StrategySolution.CalcularEnvio;
+import estudos.patterns.strategysolution.StrategySolution.CalcularEnvio;
 
 public class FreteSolution{
     private CalcularEnvio servico;

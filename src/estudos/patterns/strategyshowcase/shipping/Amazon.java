@@ -1,4 +1,4 @@
-package estudos.padroes.patterns.strategyshowcase.shipping;
+package estudos.patterns.strategyshowcase.shipping;
 
 public class Amazon{
     public double calcularEnvio(double peso, double valor){

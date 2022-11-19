@@ -1,4 +1,4 @@
-package estudos.padroes.patterns.strategyshowcase.shipping;
+package estudos.patterns.strategyshowcase.shipping;
 
 public class AliExpress {
     public double calcularFrete(String cupom, double pesoProduto){
